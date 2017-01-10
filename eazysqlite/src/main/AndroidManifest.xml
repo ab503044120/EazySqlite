@@ -1,4 +1,4 @@
-<manifest package="org.huihui.eazysqlitelib"
+<manifest package="org.huihui.eazysqlite.lib"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application android:allowBackup="true"

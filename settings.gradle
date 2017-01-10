@@ -1,1 +1,1 @@
-include ':app', ':eazysqlite-lib'
+include ':app', ':eazysqlite', ':eazysqlite-compiler', ':eazysqlite-annotation'
